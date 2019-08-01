@@ -20,7 +20,7 @@ This runs npm run server and npm run start concurrently on 2 different process.
 
 
 ## API Request Postman
-I am sharing the Postman Link with you. No environment is setup yet for it but You can use the API in order to feed the data. Please create a db before with the name "porfoliomanager" and then you can use it once the App is setup.
+I am sharing the Postman Link with you. No environment is setup yet for it but You can use the API in order to feed the data. 
 
 https://www.getpostman.com/collections/a40aa8030bf14d3568c9
 
