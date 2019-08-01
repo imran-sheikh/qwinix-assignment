@@ -7,5 +7,5 @@ const App = () => {
 
 ReactDOM.render(
   <App/>,
-  document.getElementById('root');
-)
+  document.getElementById('root')
+);
